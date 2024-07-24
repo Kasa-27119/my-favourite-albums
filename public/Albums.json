@@ -1,0 +1,144 @@
+[
+    {
+        "id":1,
+        "name":"tryhard",
+        "artist":"The Band CAMINO",
+        "year":2019,
+        "cover_art":"./imgs/tryhard.jpg"
+    },
+    {
+        "id":2,
+        "name":"Bloom",
+        "artist":"Beach House",
+        "year":2012,
+        "cover_art":"./imgs/bloom.jpg"
+    },
+    {
+        "id":3,
+        "name":"It's Immaterial",
+        "artist":"Black Marble",
+        "year":2016,
+        "cover_art":"./imgs/conditional.jpg"
+    },
+    {
+        "id":4,
+        "name":"Draining Love Story",
+        "artist":"Sewerslvt",
+        "year":2020,
+        "cover_art":"./imgs/draining_love.jpg"
+    },
+    {
+        "id":5,
+        "name":"Parcels",
+        "artist":"Parcels",
+        "year":2018,
+        "cover_art":"./imgs/parcels.jpg"
+    },
+    {
+        "id":6,
+        "name":"Speaking in Tongues",
+        "artist":"Talking Heads",
+        "year":1983,
+        "cover_art":"./imgs/speaking.jpg"
+    },
+    {
+        "id":7,
+        "name":"Two Star & The Dream Police",
+        "artist":"Mk.gee",
+        "year":2024,
+        "cover_art":"./imgs/two_star.jpg"
+    },
+    {
+        "id":8,
+        "name":"Endless Summer",
+        "artist":"The Midnight",
+        "year":2016,
+        "cover_art":"./imgs/summer.jpg"
+    },
+    {
+        "id":9,
+        "name":"Substance",
+        "artist":"New Order",
+        "year":1987,
+        "cover_art":"./imgs/substance.jpg"
+    },
+    {
+        "id":10,
+        "name":"Nectar",
+        "artist":"Joji",
+        "year":2020,
+        "cover_art":"./imgs/nectar.jpg"
+    },
+    {
+        "id":11,
+        "name":"New World Disciples",
+        "artist":"desert sands feel warm at night",
+        "year":2021,
+        "cover_art":"./imgs/nw_disciples.jpg"
+    },
+    {
+        "id":12,
+        "name":"I'll Try Living Like This",
+        "artist":"death's dynamic shroud",
+        "year":2015,
+        "cover_art":"./imgs/living_like_this.jpg"
+    },
+    {
+        "id":13,
+        "name":"VHS",
+        "artist":"CASTLEBEAT",
+        "year":2018,
+        "cover_art":"./imgs/vhs.jpg"
+    },
+    {
+        "id":14,
+        "name":"The Cars",
+        "artist":"The Cars",
+        "year":1978,
+        "cover_art":"./imgs/cars.jpg"
+    },
+    {
+        "id":15,
+        "name":"You'll Never Get to Heaven",
+        "artist":"You'll Never Get to Heaven",
+        "year":2012,
+        "cover_art":"./imgs/never_get_to_heaven.jpg"
+    },
+    {
+        "id":16,
+        "name":"Neon White Soundtrack Part 1 'The Wicked Heart'",
+        "artist":"Machine Girl",
+        "year":2022,
+        "cover_art":"./imgs/neon_white.jpg"
+
+    },
+    {
+        "id":17,
+        "name":"Tako Tsubo",
+        "artist":"L'Imperatrice",
+        "year":2021,
+        "cover_art":"./imgs/tako.jpg"
+    },
+    {
+        "id":18,
+        "name":"Teeth Restoration",
+        "artist":"bye2",
+        "year":2021,
+        "cover_art":"./imgs/teeth.jpg"
+    },
+    {
+        "id":19,
+        "name":"yoyo",
+        "artist":"A Beacon School",
+        "year":2023,
+        "cover_art":"./imgs/yoyo.jpg"
+    },
+    {
+        "id":19,
+        "name":"ley lines",
+        "artist":"flor",
+        "year":2019,
+        "cover_art":"./imgs/ley_lines.jpg"
+    }
+]
+
